@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
+
 **NicolasB16/NicolasB16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 atuyalmente nao trabalho, apena estudo
+- 🌱 atualmente estou no 2 ano do ensino medio aprendendo programação
+- 👯 atualmente nao sei em que procuro colaborar
+- 🤔 atualmente nao procuro ajuda com nada
+- 💬 pergunte-me sobre minha vida
+- 📫 me ligando ou indo na sala 2A Do colégio scaramelli
+- 😄 Ele dele
+- ⚡ sou muito legal
+  
